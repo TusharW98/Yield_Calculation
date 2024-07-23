@@ -1,13 +1,19 @@
 
-Yield to Maturity (YTM) Calculation using Excel VBA
-Overview
+Yield to Maturity (YTM) Calculation using Excel VBA:
+
+Overview:
+
 This project demonstrates the calculation of Yield to Maturity (YTM) for a bond's dirty price using the Newton-Raphson method implemented in Excel VBA. 
 The Newton-Raphson method is an iterative technique used to solve complex equations and has been applied here to determine the YTM with precision.
 
-Features
+Features:
+
 YTM Calculation: Computes the Yield to Maturity of a bond based on its dirty price.
+
 Newton-Raphson Method: Uses iterative calculations to refine the YTM estimate until the bond price aligns with the market price.
+
 Accuracy: Results are validated against Bloomberg Terminal data to ensure precision.
+
 Implementation
 VBA Code:
 
