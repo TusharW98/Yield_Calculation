@@ -31,7 +31,7 @@ Review Results:
 
 The calculated YTM will be displayed in the YTM used cell in the Excel sheet. Compare it with Bloomberg Terminal data for validation.
 
-Results
+Results:
 The YTM calculated using this method matched the value from the Bloomberg Terminal, showcasing the accuracy and reliability of the Newton-Raphson approach.
 
 Files
